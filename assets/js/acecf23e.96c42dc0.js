@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjinmi_vega=self.webpackChunkjinmi_vega||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/JinmiVega.github.io/blog","blogTitle":"Blog","authorsListPath":"/JinmiVega.github.io/blog/authors"}')}}]);
