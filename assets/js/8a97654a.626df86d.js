@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjinmi_vega=self.webpackChunkjinmi_vega||[]).push([[2556],{4434:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/JinmiVega.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
